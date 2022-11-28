@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-css-grid-flexbox-javascript-PWM4JBtexm]
-- Live Site URL: [https://smgy94.github.io/front-end-mentor-projects/news-homepage-main/]
+- Live Site URL: [https://smgy94.github.io/front-end-mentor-news-homepage-main/]
 
 # Frontend Mentor - News homepage solution
 
